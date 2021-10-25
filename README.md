@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @s1-d1w
 - 👀 I’m interested in coding, gaming.
-- 🌱 I’m currently learning Python, Java, R and JavaScript
+- 🌱 I’m currently learning Python, Java, R and JavaScript...
 - 💞️ I’m looking to collaborate on everything interests me!
 - 📫 How to reach me: my wechat is: sdwialina
 
