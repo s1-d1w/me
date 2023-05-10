@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, gaming.
 - 🌱 I’m currently learning Python, Java, R and JavaScript...
 - 💞️ I’m looking to collaborate on everything interests me!
-- 📫 How to reach me: my wechat is: sdwialina
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/diwen-si-267439233/)
 
 <!---
 s1-d1w/s1-d1w is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
